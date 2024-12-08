@@ -1435,6 +1435,7 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.08-07.45.15:192][575]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 308.523926
 [2024.12.08-07.45.16:195][578]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2024.12.08-07.45.16:195][578]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 309.191803, Update Interval: 321.477112
+<<<<<<< HEAD
 [2024.12.08-07.50.41:532][204]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 634.862732
 [2024.12.08-07.50.42:531][207]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2024.12.08-07.50.42:531][207]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 635.528931, Update Interval: 345.946228
@@ -1447,3 +1448,5 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.08-08.02.43:121][ 86]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1356.452515
 [2024.12.08-08.02.44:122][ 89]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2024.12.08-08.02.44:122][ 89]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1357.119141, Update Interval: 323.474854
+=======
+>>>>>>> 60ee8ba (Initial commit)
